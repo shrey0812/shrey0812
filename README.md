@@ -35,7 +35,7 @@ Tech: Python, scikit-learn, Pandas
 *A simple and clean personal expense tracking web app.*
 Tech: React, Node.js, PostgreSQL, Tailwind CSS
 
-### ✍️ [Blogging Website using MERN Stack](https://github.com/shrey0812/blogging-MERN)
+### ✍️ [Blogging Website using MERN Stack](https://github.com/shrey0812/blogging-website-MERN)
 
 *A full-stack blogging platform where users can create, edit, and share posts.*
 Tech: MongoDB, Express, React, Node.js
